@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gogogodoge.github.io/hugo-hello-world/categories/</loc>
+    <loc>https://gogogodoge.github.io/hugo-hello-world/another-hello-world/</loc>
+    <lastmod>2020-03-15T16:30:06-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gogogodoge.github.io/hugo-hello-world/hello-world/</loc>
+    <lastmod>2020-03-15T16:30:06-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://gogogodoge.github.io/hugo-hello-world/</loc>
+    <lastmod>2020-03-15T16:30:06-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gogogodoge.github.io/hugo-hello-world/categories/</loc>
   </url>
   
   <url>
