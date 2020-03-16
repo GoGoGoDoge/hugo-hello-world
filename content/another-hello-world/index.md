@@ -8,4 +8,4 @@ draft: true
 
 {{< youtube Eu4zSaKOY4A >}}
 
-{{< bilibili aid=“61016858” cid="123">}}
+{{< bilibili aid=52631606 >}}
